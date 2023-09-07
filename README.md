@@ -1,8 +1,9 @@
 - 👋 Привет,я Jebby
 - 🎮 Я делаю игры.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+
+- 📫 Связь:
+- VK: @JebbyW
 
 <!---
 Jebbys/Jebbys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
